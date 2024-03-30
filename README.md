@@ -19,6 +19,7 @@ Follow the image to understand the objective of the task:
 Basically 1 second is equal to 1 position in X or Y that the user can move up, according to the rules:
 
   -First you go up in Y
+  
   -After that you climb X 2 times
 
 And you keep this loop until you finish.
