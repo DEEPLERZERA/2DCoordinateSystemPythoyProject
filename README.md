@@ -8,6 +8,17 @@ For example in this image we have the lines X and Y, and we have many points dis
 
 Simple like this.
 
+## Part A
+
+In this part we want to work with the idea of ​​obtaining some point of origin from the user and the number of points we will obtain, and trying to define exactly the quadrant where the point is.
+
+![image](https://github.com/DEEPLERZERA/2DCoordinateSystemPythoyProject/assets/73613620/03aa1073-88fa-4552-ac91-21da16ffe51f)
+
+We also want to know the closest point to the point of origin and the furthest point from the origin. To calculate this we will use Euclidean distance.
+
+At the end, we simply show the user the number of points in the first quadrant, second quadrant, third quadrant and fourth quadrant, as well as other curiosities.
+
+
 ## Part B
 
 In this part we want to work with the idea of ​​progression, for example a user enters point A as (2,3) and says that the robot will walk for 7 seconds.
