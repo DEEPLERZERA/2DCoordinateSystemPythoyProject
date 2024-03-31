@@ -18,6 +18,7 @@ We also want to know the closest point to the point of origin and the furthest p
 
 At the end, we simply show the user the number of points in the first quadrant, second quadrant, third quadrant and fourth quadrant, as well as other curiosities.
 
+Simple like this.
 
 ## Part B
 
